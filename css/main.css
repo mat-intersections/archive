@@ -1,0 +1,18 @@
+body {
+    background: grey;
+    color: white;
+}
+
+.content {
+    max-width: 40em;
+    margin: auto;
+    padding: 40px;
+}
+
+a {
+    color: white;
+}
+
+a:hover {
+    color: #E1E1E1;
+}
